@@ -26,8 +26,7 @@ The repository is organized as follows:
 
 - `pull_spotify_data.ipynb`: Jupyter notebook used to collect data from Spotify API and generate CSV files containing track information for the top 1000 songs from 2023.
 - `main.ipynb`: Jupyter notebook that performs data analysis and visualization using the collected track information and various Python libraries.
-- `data/`: Directory containing the generated CSV files with track information.
-- `images/`: Directory containing images of plots and visualizations generated during the analysis.
+- The other files in the repository are the data files we used at the time of analysis. 
 
 ## Installation
 
