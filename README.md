@@ -1,4 +1,4 @@
-# Data Science Project: Spotify Data Analysis
+# Project: Spotify Data Analysis
 
 This repository contains the code and data for a data science project that involves collecting and analyzing data from Spotify using Python and various libraries. The project aims to answer specific questions related to music tracks' characteristics and their relationship with popularity, genre, and other features.
 
