@@ -46,12 +46,8 @@ To run the notebooks and reproduce the analysis, follow these steps:
 The analysis and findings for each research question are documented in the `main.ipynb` notebook. Visualizations, statistical tests, and interpretations are provided to address the project's objectives. These results were presented in the following presentation: https://docs.google.com/presentation/d/1FOZQMphf0MMtL6GAjAjDQDrnAz0H2urXqtfg5BICy9E/edit#slide=id.g2748748d400_0_5. 
 
 ## Conclusion
-
 This repository showcases the process of collecting, analyzing, and visualizing Spotify data using Python and relevant libraries. The research questions posed by each contributor provide insights into the relationships between music characteristics, genre, and popularity. The notebooks serve as valuable references for future analyses and inquiries related to music data.
 
 For any questions or suggestions, feel free to reach out to the project contributors: Chelsea, Cindy, and Alec.
 
-**Note**: Due to the dynamic nature of the Spotify API and music trends, the results are specific to the data collected during the project's timeframe (2023).
-
----
-*Disclaimer: This project is for educational and exploratory purposes. It is not affiliated with Spotify.*
+*Disclaimer: This project is for educational and exploratory purposes. It is not affiliated with Spotify.
