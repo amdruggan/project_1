@@ -43,7 +43,7 @@ To run the notebooks and reproduce the analysis, follow these steps:
 
 ## Results
 
-The analysis and findings for each research question are documented in the `main.ipynb` notebook. Visualizations, statistical tests, and interpretations are provided to address the project's objectives.
+The analysis and findings for each research question are documented in the `main.ipynb` notebook. Visualizations, statistical tests, and interpretations are provided to address the project's objectives. These results were presented in the following presentation: https://docs.google.com/presentation/d/1FOZQMphf0MMtL6GAjAjDQDrnAz0H2urXqtfg5BICy9E/edit#slide=id.g2748748d400_0_5. 
 
 ## Conclusion
 
