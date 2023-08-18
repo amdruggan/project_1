@@ -32,7 +32,7 @@ The repository is organized as follows:
 
 To run the notebooks and reproduce the analysis, follow these steps:
 
-1. Clone this repository to your local machine using `git clone <[repository_url](https://github.com/amdruggan/project_1/edit/main/README.md)>`.
+1. Clone this repository to your local machine using `git clone https://github.com/amdruggan/project_1/
 2. Create a virtual environment and activate it (recommended but optional).
 3. Install the required dependencies.
 
